@@ -4,7 +4,7 @@ A static, English personal website built with React, TypeScript, Vite, and custo
 
 Motion includes a staggered introduction, one-time scroll reveals, link and image hover interactions, and a CSS reading-progress line in supporting browsers. Content remains visible without IntersectionObserver. The reduced-motion preference disables motion and immediately reveals any waiting content, including when the preference changes during a visit.
 
-The Research section summarizes the owner's literature review on LLM résumé-screening bias, with expandable method notes and locally hosted report/slides. The summary and document paths are maintained in `src/content.ts` alongside the project content.
+The Course research section summarizes the owner's coursework literature review on LLM résumé-screening bias, with expandable method notes and locally hosted course report/slides. The summary and document paths are maintained in `src/content.ts` alongside the project content.
 
 ## Develop
 

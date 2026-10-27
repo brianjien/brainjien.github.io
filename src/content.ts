@@ -25,7 +25,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/chih-lin-chien-517944207/",
   languages: "Mandarin (native), English (proficient)",
   introduction:
-    "I’m a Master of Computer Science student at UIUC. I work on web applications, real-time systems, and computer vision. I’ve also reviewed research on bias in LLM résumé screening.",
+    "I’m a Master of Computer Science student at UIUC. I work on web applications, real-time systems, and computer vision. My coursework includes a literature review on bias in LLM résumé screening.",
   about: [
     "I studied computer science at Feng Chia University and San Francisco State University before starting my master’s at the University of Illinois Urbana-Champaign.",
     "At Moldex3D, I wrote Cypress tests for a web application. In my projects, I’ve worked on frontend interfaces, backend integrations, and computer vision. You can find the code and project details in the links above.",
@@ -100,9 +100,9 @@ export const projects = [
 
 export const research = {
   title: "Bias and fairness in LLM résumé screening",
-  category: "Literature review · University of Illinois Urbana-Champaign",
+  category: "Coursework · Literature review · UIUC",
   summary:
-    "How do LLMs evaluate résumés, and where can demographic bias enter the process? I reviewed studies on gender, race, national origin, disability, and intersectional bias in automated hiring.",
+    "For a course project at UIUC, I reviewed how LLMs evaluate résumés and where demographic bias can enter the process. The report covers studies on gender, race, national origin, disability, and intersectional bias in automated hiring.",
   contribution:
     "I compared auditing methods and fairness definitions across three screening approaches, organized mitigation strategies into a four-stage pipeline, and proposed acceptance criteria for future screening systems.",
   findings: [
@@ -135,7 +135,7 @@ export const research = {
   note: "Benchmark results discussed in the report come from the cited studies. The combined pipeline is a proposal for future implementation and evaluation.",
   report: {
     path: "documents/llm-resume-bias-report.pdf",
-    label: "Read report (PDF)",
+    label: "Read course report (PDF)",
   },
   slides: {
     path: "documents/llm-resume-bias-slides.pptx",

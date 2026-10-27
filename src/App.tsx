@@ -144,8 +144,8 @@ export function App() {
               aria-labelledby="research-title"
             >
               <div className="section-heading" data-reveal="visible">
-                <h2 id="research-title">Research</h2>
-                <p>Literature & analysis</p>
+                <h2 id="research-title">Course research</h2>
+                <p>Literature review</p>
               </div>
               <article
                 className="research-note"
@@ -194,7 +194,7 @@ export function App() {
                     href={`${import.meta.env.BASE_URL}${research.report.path}`}
                     target="_blank"
                     rel="noopener noreferrer"
-                    aria-label="Read research report (PDF, opens in a new tab)"
+                    aria-label="Read course report (PDF, opens in a new tab)"
                   >
                     {research.report.label} <Arrow />
                   </a>

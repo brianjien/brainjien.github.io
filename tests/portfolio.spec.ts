@@ -154,7 +154,7 @@ test("research notes expand by keyboard and the source documents are available",
   await page.keyboard.press("Space");
   await expect(details).not.toHaveAttribute("open");
 
-  const report = page.getByRole("link", { name: /Read research report/ });
+  const report = page.getByRole("link", { name: /Read course report/ });
   const href = await report.getAttribute("href");
   expect(href).toMatch(/^\/brainjien\.github\.io\/documents\//);
   const response = await page.request.get(href!);

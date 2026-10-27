@@ -17,7 +17,7 @@ Project descriptions were checked against these public READMEs on October 27, 20
 
 ## Research documents
 
-The research section is based on the owner-supplied **Final report.pdf** and **LLM Resume Bias - Chih Lin Chien.pptx**, both authored by Chih Lin Chien. The report's full title is _Demographic Bias and Fairness Mitigation in LLM-based Resume Screening: A Literature Review_.
+The Course research section is based on the owner-supplied **Final report.pdf** and **LLM Resume Bias - Chih Lin Chien.pptx**, both authored by Chih Lin Chien for coursework at UIUC. The report's full title is _Demographic Bias and Fairness Mitigation in LLM-based Resume Screening: A Literature Review_.
 
 Unchanged local copies are available as `public/documents/llm-resume-bias-report.pdf` and `public/documents/llm-resume-bias-slides.pptx`. The portfolio labels this work as a literature review, attributes benchmark evidence to the cited studies, and identifies the combined mitigation pipeline as a proposal. It does not present the cited studies' experiments as new experiments by the portfolio owner.
 
